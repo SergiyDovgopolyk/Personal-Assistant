@@ -1,6 +1,6 @@
 # Встановлення додатку
 
-1. В терміналі введіть `pip install -i https://test.pypi.org/simple/ BotDan == 0.0.1`
+1. В терміналі введіть `pip install -i https://test.pypi.org/simple/ BotDan==0.0.1`
 2. Запускайте за командою `botya`
 
 # Adress book
